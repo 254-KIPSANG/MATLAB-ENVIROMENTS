@@ -23,5 +23,6 @@ This MATLAB script demonstrates basic image filtering techniques using the `imfi
 - Run the script to observe the filtered images displayed in the MATLAB command window.
 
 ## License
-This script is provided under the MIT License. Feel free to modify and use it according to your requirements.
+This script is provided under the Free License. Feel free to modify and use it according to your requirements.
+CYRUS KIPSANG©
 
